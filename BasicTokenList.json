@@ -4,7 +4,7 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "keywords": [
     "expswap",
@@ -138,6 +138,14 @@
       "symbol": "EXC",
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x71c6a1ae78259f9E74cD4FaA3F96CFD06d9E1616.png"
+    },
+    {
+      "address": "0x138d27629fb6076f72407a868e0b8f9c6215492d",
+      "chainId": 2,
+      "name": "Candy",
+      "symbol": "SUGAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CandyOnExpanse/Expanse-Token-List/main/icon/SUGAR.png"
     }
   ]
 }
